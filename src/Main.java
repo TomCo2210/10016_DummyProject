@@ -7,4 +7,10 @@ public class Main {
 
 	}
 
+	
+	public static void anotherMain(String[] args) {
+		System.out.println("Hello from Another World!");
+
+	}
+
 }
