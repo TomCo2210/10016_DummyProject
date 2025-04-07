@@ -13,4 +13,9 @@ public class Main {
 
 	}
 
+	public static void thirdMain(String[] args) {
+		System.out.println("Hello from Third World!");
+
+	}
+
 }
